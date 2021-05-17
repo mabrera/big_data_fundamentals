@@ -1,0 +1,59 @@
+DE
+
+A-B: AB
+0
+A-C: AC
+0
+A-D: ABD, AED
+0.5
+A-E: AE
+0
+A-F: ABDF, AEDF
+0.5
+A-G: ABDFG, AEDFG
+0.5
+A-H: ABDFH, AEDFH
+0.5
+B-C: BAC
+0
+B-D: BD
+0
+B-E: BAE, BDE
+0.5
+B-F: BDF
+0
+B-G: BDFG
+0
+B-H: BDFH
+0
+C-D: CED
+1
+C-E: CE
+0
+C-F: CEDF
+1
+C-G: CEDFG
+1
+C-H: CEDFH
+1
+D-E: DE
+1
+D-F: DF
+0
+D-G: DFG
+0
+D-H: DFH
+0
+E-F: EDF
+1
+E-G: EDFG
+1
+E-H: EDFH
+1
+F-G: FG
+0
+F-H: FH
+0
+G-H: GFH
+0
+

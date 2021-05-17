@@ -1,0 +1,10 @@
+p edge 8 9
+e A B
+e A C
+e A E
+e B D
+e C E
+e D E
+e D F
+e F G
+e F H

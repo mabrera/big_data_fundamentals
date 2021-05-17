@@ -1,0 +1,11 @@
+TID	Items
+001	A, B, D, G
+002	B, D, E
+003	A, B, C, E, F
+004	B, D, E, G
+005	A, B, C, E, F
+006	B, E, G
+007	A, C, D, E
+008	B, E
+009	A, B, E, F
+010	A, C, D, E

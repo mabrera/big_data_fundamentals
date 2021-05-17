@@ -1,0 +1,8 @@
+p edge 6 7
+e A B
+e A D
+e A E
+e A F
+e B C
+e B E
+e C D

@@ -1,0 +1,5 @@
+TID	Items
+001	A, C, D
+002	B, C, E
+003	A, B, C, E
+004	B, E
